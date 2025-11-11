@@ -121,13 +121,6 @@ Edit the CSS variables in `assets/css/style.css`:
 - Edge (latest)
 - Mobile browsers
 
-## Performance
-
-- Lightweight: No heavy dependencies
-- Fast loading: External resources loaded from CDN
-- Optimized animations: Hardware-accelerated CSS transitions
-- Efficient JavaScript: Event delegation and optimized DOM manipulation
-
 ## How to Use
 
 1. **Download/Clone** the project
@@ -135,24 +128,6 @@ Edit the CSS variables in `assets/css/style.css`:
 3. **Customize** the content with your own information
 4. **Deploy** to your preferred hosting platform (GitHub Pages, Netlify, Vercel, etc.)
 
-## Deployment
-
-### GitHub Pages
-1. Push code to GitHub repository
-2. Go to Settings > Pages
-3. Select branch and folder
-4. Your site will be live at `https://yourusername.github.io/repository-name`
-
-### Netlify/Vercel
-1. Connect your GitHub repository
-2. Deploy with one click
-3. Custom domain support available
-
-## Credits
-
-- **Bootstrap**: https://getbootstrap.com/
-- **Bootstrap Icons**: https://icons.getbootstrap.com/
-- **Fonts**: System fonts for optimal performance
 
 ## License
 
@@ -160,8 +135,5 @@ This project is open source and available for personal and commercial use.
 
 ## Author
 
-Created with ❤️ for showcasing web development skills.
+Created with ❤️ for showcasing web development skills for Koding Next Indonesia.
 
----
-
-**Note**: Remember to replace all placeholder content (email, phone, social links) with your actual information before deploying the website.
