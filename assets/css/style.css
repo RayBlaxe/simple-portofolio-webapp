@@ -1,6 +1,6 @@
 /* Custom Variables */
 :root {
-    --primary-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    --primary-gradient: linear-gradient(135deg, #1F3E93 0%, #5876C8 100%);
     --transition: all 0.3s ease;
 }
 
@@ -15,7 +15,7 @@ body {
 
 /* Custom Variables */
 :root {
-    --primary-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    --primary-gradient: linear-gradient(135deg, #1F3E93 0%, #5876C8 100%);
     --transition: all 0.3s ease;
 }
 
@@ -58,7 +58,7 @@ body {
     transform: translateX(-50%);
     width: 0;
     height: 2px;
-    background: linear-gradient(90deg, #667eea, #764ba2);
+    background: linear-gradient(90deg, #1F3E93, #5876C8);
     transition: var(--transition);
 }
 
@@ -169,7 +169,7 @@ body {
 }
 
 .skill-badge:hover {
-    border-color: #667eea;
+    border-color: #1F3E93;
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(102, 126, 234, 0.2);
 }
@@ -194,7 +194,7 @@ body {
 }
 
 .project-company {
-    color: #667eea;
+    color: #1F3E93;
     font-weight: 600;
 }
 
@@ -208,7 +208,7 @@ body {
     display: inline-block;
     padding: 0.25rem 0.75rem;
     background: #e7f0ff;
-    color: #667eea;
+    color: #1F3E93;
     border-radius: 20px;
     font-size: 0.75rem;
     font-weight: 600;

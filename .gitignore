@@ -1,0 +1,16 @@
+# Backup files
+index.backup.html
+*.backup.html
+
+# Complex/backup scripts
+assets/js/script-complex.js
+assets/js/script.backup.js
+
+# Comparison and summary files
+APPROACH_COMPARISON.md
+FINAL_SUMMARY.txt
+PROJECT_SUMMARY.txt
+QUICKSTART.md
+
+# Optional - if you want to exclude these too
+# README.md can stay if you want documentation on GitHub
